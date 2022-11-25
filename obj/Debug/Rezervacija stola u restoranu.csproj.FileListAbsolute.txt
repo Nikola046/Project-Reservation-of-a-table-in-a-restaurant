@@ -1,0 +1,25 @@
+C:\Users\Nikola\source\repos\Rezervacija stola u restoranu\Rezervacija stola u restoranu\bin\Debug\Rezervacija stola u restoranu.exe.config
+C:\Users\Nikola\source\repos\Rezervacija stola u restoranu\Rezervacija stola u restoranu\bin\Debug\Rezervacija stola u restoranu.exe
+C:\Users\Nikola\source\repos\Rezervacija stola u restoranu\Rezervacija stola u restoranu\bin\Debug\Rezervacija stola u restoranu.pdb
+C:\Users\Nikola\source\repos\Rezervacija stola u restoranu\Rezervacija stola u restoranu\obj\Debug\Rezervacija stola u restoranu.csproj.AssemblyReference.cache
+C:\Users\Nikola\source\repos\Rezervacija stola u restoranu\Rezervacija stola u restoranu\obj\Debug\Rezervacija_stola_u_restoranu.Form1.resources
+C:\Users\Nikola\source\repos\Rezervacija stola u restoranu\Rezervacija stola u restoranu\obj\Debug\Rezervacija_stola_u_restoranu.Properties.Resources.resources
+C:\Users\Nikola\source\repos\Rezervacija stola u restoranu\Rezervacija stola u restoranu\obj\Debug\Rezervacija stola u restoranu.csproj.GenerateResource.cache
+C:\Users\Nikola\source\repos\Rezervacija stola u restoranu\Rezervacija stola u restoranu\obj\Debug\Rezervacija stola u restoranu.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\Rezervacija stola u restoranu\Rezervacija stola u restoranu\obj\Debug\Rezervacija stola u restoranu.exe
+C:\Users\Nikola\source\repos\Rezervacija stola u restoranu\Rezervacija stola u restoranu\obj\Debug\Rezervacija stola u restoranu.pdb
+C:\Users\Nikola\source\repos\Rezervacija stola u restoranu\Rezervacija stola u restoranu\obj\Debug\Rezervacija_stola_u_restoranu.Form2.resources
+C:\Users\Nikola\source\repos\Rezervacija stola u restoranu\Rezervacija stola u restoranu\obj\Debug\Rezervacija_stola_u_restoranu.Form3.resources
+C:\Users\Lenovo\Desktop\NIKOLA\projekti nn\Rezervacija stola u restoranu\Rezervacija stola u restoranu\bin\Debug\Rezervacija stola u restoranu.exe.config
+C:\Users\Lenovo\Desktop\NIKOLA\projekti nn\Rezervacija stola u restoranu\Rezervacija stola u restoranu\bin\Debug\Rezervacija stola u restoranu.exe
+C:\Users\Lenovo\Desktop\NIKOLA\projekti nn\Rezervacija stola u restoranu\Rezervacija stola u restoranu\bin\Debug\Rezervacija stola u restoranu.pdb
+C:\Users\Lenovo\Desktop\NIKOLA\projekti nn\Rezervacija stola u restoranu\Rezervacija stola u restoranu\obj\Debug\Rezervacija stola u restoranu.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\NIKOLA\projekti nn\Rezervacija stola u restoranu\Rezervacija stola u restoranu\obj\Debug\Rezervacija stola u restoranu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\NIKOLA\projekti nn\Rezervacija stola u restoranu\Rezervacija stola u restoranu\obj\Debug\Rezervacija_stola_u_restoranu.Form1.resources
+C:\Users\Lenovo\Desktop\NIKOLA\projekti nn\Rezervacija stola u restoranu\Rezervacija stola u restoranu\obj\Debug\Rezervacija_stola_u_restoranu.Form2.resources
+C:\Users\Lenovo\Desktop\NIKOLA\projekti nn\Rezervacija stola u restoranu\Rezervacija stola u restoranu\obj\Debug\Rezervacija_stola_u_restoranu.Form3.resources
+C:\Users\Lenovo\Desktop\NIKOLA\projekti nn\Rezervacija stola u restoranu\Rezervacija stola u restoranu\obj\Debug\Rezervacija_stola_u_restoranu.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\NIKOLA\projekti nn\Rezervacija stola u restoranu\Rezervacija stola u restoranu\obj\Debug\Rezervacija stola u restoranu.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\NIKOLA\projekti nn\Rezervacija stola u restoranu\Rezervacija stola u restoranu\obj\Debug\Rezervacija stola u restoranu.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\NIKOLA\projekti nn\Rezervacija stola u restoranu\Rezervacija stola u restoranu\obj\Debug\Rezervacija stola u restoranu.exe
+C:\Users\Lenovo\Desktop\NIKOLA\projekti nn\Rezervacija stola u restoranu\Rezervacija stola u restoranu\obj\Debug\Rezervacija stola u restoranu.pdb
